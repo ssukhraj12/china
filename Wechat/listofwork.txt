@@ -1,0 +1,24 @@
+1.Optimize the loading speed of the whole website
+Present :
+- Mobile Speed - 42 Can be improved by using the AMP version with Sherif Module.
+- Web Speed - 82 this will be improved by little more by code optimization.
+
+2.Add the part for “add to cart”
+- It will be added to the product page - Done
+
+3.Make a selection type for stickers collection parts
+- Not clear? would you like to make a collection with sticker products only?
+4.Design a landing page for marketing purpose
+- I can create separate customized landing pages as the design will be provided by you or reference.
+5.Test whether the payment functions work and to see whether there is a good way to match the international sales from all countries
+- Please mention the payment gateway 3rd party or Shopify default usage.
+6.Recommend the app that is good for Shopify sales
+- Sales plan is divided into 2 parts
+- Organic: Email, SEO, Social Posts
+- Paid: Google, Facebook, Twitter, Instagram, or any other as required on feed file.
+7.How to use Shopify email marketing
+- I recommend Mailchimp, Klaviyo, Omnisend, or Adroll for email Marketing.
+8.Popup subscribe only shows once, not show again and again for all pages
+- Pop can be integrated as per ur choice via custom or email subscriber vendors like Mailchimp or Klaviyo.
+9.Add sns icon for Facebook, Twitter, LinkedIn, Instagram, Pinterest for the website
+- I can add any kind of icons.
